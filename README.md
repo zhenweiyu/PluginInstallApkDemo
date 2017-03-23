@@ -1,0 +1,2 @@
+# PluginInstallApkDemo
+在APP内下载一个APK进行安装并启动（把APK插件化启动，与Apk无需安装的插件化有区别，但是也有现实的使用场景）
